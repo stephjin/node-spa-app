@@ -2,6 +2,7 @@
   "name": "routing-app",
   "main": "server.js",
   "dependencies": {
+    "bower": "^1.3.12",
     "express": "^4.11.1"
   }
 }
